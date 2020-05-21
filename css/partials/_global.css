@@ -67,3 +67,6 @@ p.para{
     font: normal 500px 16px/25px var(--font);
 
 }
+.font-sans-serif{
+    font-family: sans-serif;
+}
