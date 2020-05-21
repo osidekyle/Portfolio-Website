@@ -78,4 +78,16 @@
 
 
 /* End Banner Area */
+/* Start About Me Area */
 
+.site-main .about-area{
+    padding: 8rem 5rem;
+}
+
+.site-main .about-area .about-title h2>span{
+    display: block;
+    font: normal bold 49px/69px var(--font);
+    letter-spacing: 21px;
+}
+
+/*End About Me Area*/
