@@ -90,4 +90,9 @@
     letter-spacing: 21px;
 }
 
+.site-main .about-area .about-title .paragraph>p{
+    padding:.4rem 0;
+    
+}
+
 /*End About Me Area*/

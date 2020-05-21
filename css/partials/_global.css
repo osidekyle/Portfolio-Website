@@ -60,3 +60,10 @@
     box-shadow: var(--box-shadow);
 
 }
+
+
+p.para{
+    color: var(--text-color);
+    font: normal 500px 16px/25px var(--font);
+
+}
