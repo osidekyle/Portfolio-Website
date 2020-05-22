@@ -73,11 +73,7 @@ p.para{
 
 
 
-.button1:focus,.button1:active:focus,.button1.active:focus,
-.button1.focus,.button1:active.focus,.button1.active.focus {
-    box-shadow: none !important;
-    outline: 0 !important;
-    
-    border: 0 !important;
-   
+button:focus, button:active, button:hover, .btn:active, .btn .active{
+   outline: 0px !important;
+   box-shadow: none !important; 
 }
