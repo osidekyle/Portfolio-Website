@@ -1,3 +1,6 @@
+/*Not working, gonna fix
+
+
 $(document).ready(function(){
 
 
@@ -19,3 +22,5 @@ $(document).ready(function(){
     
 
 });
+
+*/

@@ -217,12 +217,22 @@
 
 }
 
+
 .site-main .project-area .button-group button + button{
     padding-left:3rem;
 
 }
 .site-main .project-area .grid .our-project >.title h4{
     font:normal 700 25px/12px var(--font);
-    
+
 }
 /*End Projects Area */
+/*Start Client Area */
+.site-main .about-area .about-title p{
+    padding: 1rem 7rem;
+    
+}
+
+
+
+/* End Client Area */
