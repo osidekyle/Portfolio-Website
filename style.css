@@ -229,10 +229,20 @@
 /*End Projects Area */
 /*Start Client Area */
 .site-main .about-area .about-title p{
-    padding: 1rem 7rem;
+    
+
+}
+.site-main .about-area .client{
+    background: #ffffff10;
+    border: 0 5rem;
+    
+    
+
+}
+.site-main .about-area .client-img{
+    box-shadow: var(--box-shadow);
+    margin:0 2rem;
     
 }
-
-
 
 /* End Client Area */
