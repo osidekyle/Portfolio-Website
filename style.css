@@ -263,7 +263,19 @@
     padding: 1rem 4rem;
 }
 
-
+.subscribe form .input-textbox input{
+    width: 400px;
+    padding:1.5rem 1rem;
+    border: 1px solid whitesmoke;
+    background: transparent;
+    color: white;
+    font: normal 500 17px/20px var(--font);
+}
+.subscribe form .btn-submit button{
+    background: whitesmoke;
+    color: black;
+    padding: .7rem 2rem;
+}
 
 
 /*End Subscribe Area*/
