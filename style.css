@@ -257,6 +257,7 @@
 .subscribe-title{
     font: normal 700 30px/30px var(--font);
     color: whitesmoke;
+    text-align:center;
 }
 .subscribe-title p{
     color:whitesmoke;
@@ -275,6 +276,9 @@
     background: whitesmoke;
     color: black;
     padding: .7rem 2rem;
+}
+.input-textbox input::placeholder{
+    color:white;
 }
 
 
