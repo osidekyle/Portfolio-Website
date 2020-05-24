@@ -279,3 +279,21 @@
 
 
 /*End Subscribe Area*/
+/*Start Footer Area*/
+footer.footer-area{
+    padding:5rem 0;
+
+}
+footer.footer-area .social h5{
+font:normal 500 23px/30px var(--font);
+
+}
+.social a>i{
+ font-size: 22px;
+ padding: 2rem;
+ color:var(--border-color);
+}
+.social a>i:hover{
+    color: var(--primary-color);
+}
+/*Ende Footer Area*/
