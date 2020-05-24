@@ -250,10 +250,11 @@
 .subscribe{
     background-color: blue;
     padding:10rem 0;
-    margin: 3rem 10rem;
-
+    margin: 3rem;
+    border-radius:20px;
 
 }
+
 .subscribe-title h4{
     font: normal 700 30px/30px var(--font);
     color: whitesmoke;
@@ -262,6 +263,7 @@
 .subscribe-title p{
     color:whitesmoke;
     padding: 1rem 4rem;
+    text-align: center;
 }
 
 .subscribe form .input-textbox input{

@@ -22,10 +22,27 @@
     }
     .services{
         width: 13rem;
+
     }
     .footer-area{
         margin-left:10rem;
         width: 90%;
+    }
+    .button-group button{
+        width:40%;
+    }
+    #cli-par{
+        margin:0;
+        padding:0;
+        padding-bottom: 2rem;
+    }
+    .site-main .about-area{
+        padding-left: 9rem;
+        width:100%;
+    }
+    #yuh-but{
+        position: absolute;
+        left:50%;
     }
 }
 /*If viewport is <= 792px*/
@@ -52,6 +69,15 @@
         width:20rem;
         margin:5%;
     }
+    #yuh-but{
+        position: absolute;
+        left:50%;
+    }
+    #cli-par{
+        margin:0;
+        padding:0;
+        padding-bottom: 2rem;
+    }
 } 
 
 /*If viewport is <= 1910px*/
@@ -65,5 +91,9 @@
     .site-main .about-area{
         padding:3% 4%;
     }
-
+    #yuh-but{
+        position: absolute;
+        left:50%;
+    }
+    
 }
